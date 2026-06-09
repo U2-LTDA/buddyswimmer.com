@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.u2.buddyswimmer",
+      "package_name": "com.swimbuddy",
       "sha256_cert_fingerprints": [
         "98:D5:D4:CD:B0:04:75:76:09:27:9E:FB:24:0F:4F:37:6F:81:34:A6:8D:D9:EC:E3:84:3B:EF:D9:A3:76:3E:E3"
       ]
